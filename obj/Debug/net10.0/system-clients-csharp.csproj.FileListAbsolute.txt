@@ -1,0 +1,15 @@
+/workspaces/system-clients-csharp/bin/Debug/net10.0/system-clients-csharp
+/workspaces/system-clients-csharp/bin/Debug/net10.0/system-clients-csharp.deps.json
+/workspaces/system-clients-csharp/bin/Debug/net10.0/system-clients-csharp.runtimeconfig.json
+/workspaces/system-clients-csharp/bin/Debug/net10.0/system-clients-csharp.dll
+/workspaces/system-clients-csharp/bin/Debug/net10.0/system-clients-csharp.pdb
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.AssemblyInfoInputs.cache
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.AssemblyInfo.cs
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.csproj.CoreCompileInputs.cache
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.sourcelink.json
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.dll
+/workspaces/system-clients-csharp/obj/Debug/net10.0/refint/system-clients-csharp.dll
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.pdb
+/workspaces/system-clients-csharp/obj/Debug/net10.0/system-clients-csharp.genruntimeconfig.cache
+/workspaces/system-clients-csharp/obj/Debug/net10.0/ref/system-clients-csharp.dll
